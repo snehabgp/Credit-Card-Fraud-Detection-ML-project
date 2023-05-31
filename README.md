@@ -37,7 +37,11 @@ Model-Building/Hyperparameter Tuning: This is the final step at which we can try
 Model Evaluation: We need to evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.
 Steps:-
 The steps are broadly divided into below steps. The sub steps are also listed while we approach each of the steps.
+
 1.Reading, understanding and visualising the data
+
 2.Preparing the data for modelling
+
 3.Building the model
+
 4.Evaluate the model
